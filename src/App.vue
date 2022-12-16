@@ -15,7 +15,7 @@ import AlertButton from "./components/AlertButton.vue";
 
 <template>
   <div
-    class="relative max-w-[1440px] w-full bg-white mx-auto rounded-lg flex flex-col xl:flex-row place-content-start xl:place-content-center h-screen overflow-hidden"
+    class="relative max-w-[1440px] w-full bg-white mx-auto rounded-lg flex flex-col xl:flex-row place-content-start xl:place-content-center min-h-screen"
   >
     <Sidebar />
     <div
